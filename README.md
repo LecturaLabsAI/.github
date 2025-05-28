@@ -1,2 +1,2 @@
-# .github
-Lectūra Labs is a young AI+Edu focused research startup reimagining how we learn with AI. Curiosity Has a Voice. Let It Teach You.
+# Lectūra Labs
+Lectūra Labs is a young AI+Edu focused research startup reimagining how we learn with AI. We draw inspiration from Richard Feynman’s core belief - that anyone, with curiosity, clear thinking, and persistence, can master even the most complex ideas. As he once famously said, "That which I cannot create, I do not understand" He taught that true understanding stems from being able to recreate or explain things so simply you could teach them yourself. At Lectūra, we’re building AI educational tools that are rooted in that same philosophy - tools that empower anyone, anywhere, to teach themselves anything.
