@@ -1,5 +1,3 @@
-# Lectūra Labs
-
 <img width="1236" alt="Screenshot 2025-05-28 at 18 20 03" src="https://github.com/user-attachments/assets/b53f8acf-125c-4e61-a672-47614ec43089" />
 
 
